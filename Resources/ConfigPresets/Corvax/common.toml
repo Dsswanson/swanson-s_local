@@ -17,10 +17,10 @@ website = "https://ss14.ru"
 maximum_width = 26
 
 [game]
-lobbyduration = 240
+lobbyduration = 0
 map_pool = "NextMapPool"
 secret_weight_prototype = "CorvaxSecretDefault"
-round_restart_time = 240
+round_restart_time = 60
 
 [server]
 rules_file = "CorvaxRuleset"
@@ -30,3 +30,19 @@ rich_main_icon_id = "corvax"
 
 [admin]
 see_own_notes = true
+
+[game]
+role_timers = false
+enablewin = false
+
+[ghost]
+role_time = 0.5
+quick_lottery = true
+
+[ic]
+ssd_sleep_time = 0
+
+[shuttle]
+auto_call_time = 0
+emergency = false
+arrivals = false
