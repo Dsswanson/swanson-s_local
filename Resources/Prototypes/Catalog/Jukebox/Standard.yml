@@ -39,3 +39,33 @@
   name: PigeonBeans - Sunset
   path:
     path: /Audio/Jukebox/sunset.ogg
+
+- type: jukebox
+  id: GMFU
+  name: Odetari - GMFU
+  path:
+    path: /Audio/Jukebox/GMFU.ogg
+    
+- type: jukebox
+  id: aerials
+  name: System Of A Down - Aerials
+  path:
+    path: /Audio/Jukebox/aerials.ogg
+    
+- type: jukebox
+  id: egorbez
+  name: Egorbez - Kah
+  path:
+    path: /Audio/Jukebox/egorbez.ogg
+    
+- type: jukebox
+  id: hypnotize
+  name: System Of A Down - Hypnotize
+  path:
+    path: /Audio/Jukebox/hypnotize.ogg
+    
+- type: jukebox
+  id: Lavaland
+  name: A-Guy - Lavaland
+  path:
+    path: /Audio/Jukebox/Lavaland.ogg
