@@ -69,3 +69,9 @@
   name: A-Guy - Lavaland
   path:
     path: /Audio/Jukebox/Lavaland.ogg
+    
+- type: jukebox
+  id: summer
+  name: Sansara – Summer Of Haze
+  path:
+    path: /Audio/Jukebox/summer.ogg

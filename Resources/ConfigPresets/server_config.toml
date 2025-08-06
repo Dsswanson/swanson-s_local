@@ -1,0 +1,38 @@
+﻿[game]
+hostname = "КСТМК"
+desc = "Русскоязычный сервер с повышенным уровнем РП.\nДля получения доступа обратитесь в наш Discord!"
+maxplayers = 80
+soft_max_players = 70
+map_rotation = true
+role_timers = false
+peaceful_end = false
+
+[server]
+lobby_name = "️КСТМК"
+
+[atmos]
+space_wind = true
+
+[biomass]
+easy_mode = false
+
+[rules]
+time = 10.0
+
+[ic]
+flavor_text = true
+punctuation = true
+
+[shuttle]
+auto_call_time = 0
+
+[hub]
+advertise = true
+tags = "lang:ru,rp:high,region:eu_e,tts"
+
+[ghost]
+role_time = 0.5
+quick_lottery = true
+
+[movement]
+mob_pushing = true
